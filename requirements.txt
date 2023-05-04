@@ -10,7 +10,7 @@ dominate==2.2.0
 entrypoints==0.3
 eventlet==0.19.0
 flake8==3.7.8
-Flask==1.1.1
+Flask==2.2.5
 Flask-Bootstrap==3.3.5.7
 Flask-HTTPAuth==3.1.1
 Flask-Script==2.0.5
