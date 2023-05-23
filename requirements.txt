@@ -37,7 +37,7 @@ python-engineio==3.9.0
 python-socketio==4.3.0
 pytz==2016.4
 redis==3.3.4
-requests==2.9.1
+requests==2.31.0
 six==1.10.0
 SQLAlchemy==1.0.12
 uWSGI==2.0.18
